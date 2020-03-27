@@ -1,4 +1,6 @@
 # light python syntax validator
+Testing conducted in python 3.6.9 on Linux-5.3.0-42-generic-x86_64-with-Ubuntu-18.04-bionic
+
 Python has this builtin to the IDE already, this is for those that choose to be different...
 ## Usage
 ```
