@@ -1,6 +1,6 @@
-## light python syntax validator
+# light python syntax validator
 Python has this builtin to the IDE already, this is for those that choose to be different...
-# Usage
+## Usage
 ```
 python3 syntax.py --help
 
@@ -13,7 +13,7 @@ optional arguments:
   --silent         Don't raise exception when encountering an error
 ```
 
-# Examples
+## Examples
 Using --string
 ```
 $ python3 syntax.py --string "print('Hello, World')"
